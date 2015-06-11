@@ -1,7 +1,7 @@
 
 public class Demo {
 
-	private String msg = "hello";
+	private String msg = "hello world";
 	
 	
 }
